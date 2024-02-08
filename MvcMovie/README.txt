@@ -115,6 +115,24 @@ Review : 9 and 10
 Add validation: Implementing validation ensures that data meets specified criteria before being saved to the database.
 Examine Details and Delete: This involves creating views and actions to display detailed information about a model instance and allow users to delete records.
 
+Final  Output :- ...........
+
+
+
+Index
+
+Create New
+
+All
+ Title: 
+
+
+Title			Release Date	Genre		Price	Rating	Actions
+Jurassic Park	2024-02-01		Thriller	$7.99	PG-13	Edit | Details | Delete
+Titanic			2024-02-18		Romance		$8.99	PG-14	Edit | Details | Delete
+Star Wars		2024-02-21		Sci-fi		$9.99	PG-16	Edit | Details | Delete
+Avatar			2024-02-14		Action		$3.99	PG-18	Edit | Details | Delete
+Interstellar	2024-02-24		Action		$20.00	PG-12	Edit | Details | Delete
 
 
 
